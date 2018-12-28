@@ -16,7 +16,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.cg.tennis.kata.GameData</mainClass>
+							<mainClass>com.cg.tennis.kata.GameInput</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
