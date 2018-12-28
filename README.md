@@ -17,7 +17,7 @@ Below are the steps to run tennis-kata-ui application on windows OS.
 		Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
 		Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 		
-2) If do not want to compile and build tennis-kata solution and need to run application directly via jar file then below steps need to be executed.
+2) If do not want to compile and build tennis-kata-ui application and need to run application directly via jar file then below steps need to be executed.
 	
 	a) Click on "Download ZIP" button on GitHub, it will download "tennis-kata-ui-master.zip" folder. Unzip it and open it, it will include tennis-kata-ui.jar file.
 	
@@ -49,7 +49,7 @@ Below are the steps to run tennis-kata-ui application on windows OS.
 		OS name: "windows 10", version: "10.0", arch: "x86", family: "dos"
 		
 4) Click on "Download ZIP" button on GitHub, it will download "tennis-kata-ui-master.zip" folder. Unzipp it and open it.
-5) Run command prompt, go to inside tennis-kata-ui-master/tennis-kata folder.
+5) Run command prompt, go to inside tennis-kata-ui-master/tennis-kata/ folder.
 6) run 'mvn clean' command to clean the project.
 7) Run 'mvn install' command to build the project.
 8) Once build completed, a target folder will be created inside tennis-kata folder.
